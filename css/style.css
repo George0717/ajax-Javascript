@@ -1,17 +1,12 @@
 h2 {
-    color: black;
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: 200;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 200;
 }
-span{
-    color: green ;
-}
-.bg{
-    height: 30px;
-    width: 100%;
-    background-color: aqua;
+span {
+  color: green;
 }
 
-table{
-    border: 5px solid black;
+table {
+  border: 5px solid black;
 }
